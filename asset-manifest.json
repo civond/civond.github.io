@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7990ad7.chunk.css",
+    "main.js": "/static/js/main.4e39f837.chunk.js",
+    "main.js.map": "/static/js/main.4e39f837.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1ec3c761.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1ec3c761.js.map",
+    "static/js/2.4fe48499.chunk.js": "/static/js/2.4fe48499.chunk.js",
+    "static/js/2.4fe48499.chunk.js.map": "/static/js/2.4fe48499.chunk.js.map",
+    "static/js/3.4c8dd413.chunk.js": "/static/js/3.4c8dd413.chunk.js",
+    "static/js/3.4c8dd413.chunk.js.map": "/static/js/3.4c8dd413.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b7990ad7.chunk.css.map": "/static/css/main.b7990ad7.chunk.css.map",
+    "static/js/2.4fe48499.chunk.js.LICENSE.txt": "/static/js/2.4fe48499.chunk.js.LICENSE.txt",
+    "static/media/Figure1.4f6883e4.png": "/static/media/Figure1.4f6883e4.png",
+    "static/media/Figure2.22310176.png": "/static/media/Figure2.22310176.png",
+    "static/media/Figure3.dd07b0e8.png": "/static/media/Figure3.dd07b0e8.png",
+    "static/media/Figure4.bd3c5d2c.png": "/static/media/Figure4.bd3c5d2c.png",
+    "static/media/colorRecognition.5f3a0b2f.PNG": "/static/media/colorRecognition.5f3a0b2f.PNG",
+    "static/media/ghanaBanner.c1a27d82.jpg": "/static/media/ghanaBanner.c1a27d82.jpg",
+    "static/media/graduationBanner.7077f1e8.jpg": "/static/media/graduationBanner.7077f1e8.jpg",
+    "static/media/mouseFigure_1.45f3c402.png": "/static/media/mouseFigure_1.45f3c402.png",
+    "static/media/photosBanner-2.740dc7cc.jpg": "/static/media/photosBanner-2.740dc7cc.jpg",
+    "static/media/photosBanner-3.275ab885.jpg": "/static/media/photosBanner-3.275ab885.jpg",
+    "static/media/photosBanner.d7e45aac.jpg": "/static/media/photosBanner.d7e45aac.jpg",
+    "static/media/projectBanner.575655d3.jpg": "/static/media/projectBanner.575655d3.jpg",
+    "static/media/slide3.ed0523e8.jpg": "/static/media/slide3.ed0523e8.jpg",
+    "static/media/slide4.5bb9d928.jpg": "/static/media/slide4.5bb9d928.jpg",
+    "static/media/slide5.f0570554.jpg": "/static/media/slide5.f0570554.jpg",
+    "static/media/taiwan.29608bf8.JPG": "/static/media/taiwan.29608bf8.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec3c761.js",
+    "static/js/2.4fe48499.chunk.js",
+    "static/css/main.b7990ad7.chunk.css",
+    "static/js/main.4e39f837.chunk.js"
+  ]
+}
