@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.23c5e624.css",
-    "main.js": "/static/js/main.1986b245.js",
+    "main.css": "/static/css/main.51fb328a.css",
+    "main.js": "/static/js/main.0187424d.js",
     "static/js/787.74e9171c.chunk.js": "/static/js/787.74e9171c.chunk.js",
     "static/media/otter.png": "/static/media/otter.0fa3a6c26d695925dc84.png",
     "static/media/personalpic.png": "/static/media/personalpic.a37d2bdf38770395eb3d.png",
@@ -10,18 +10,30 @@
     "static/media/ECG.png": "/static/media/ECG.2cbec17f1cc3c347500a.png",
     "static/media/2152_100Performance.png": "/static/media/2152_100Performance.20898f7703c28166a4fb.png",
     "static/media/FreqResp.jpg": "/static/media/FreqResp.b8f3b8100c217cde5022.jpg",
+    "static/media/matlab.png": "/static/media/matlab.82317ab0097e0edaf2e6.png",
+    "static/media/DLC.png": "/static/media/DLC.7e9b613f274edf14967b.png",
+    "static/media/R.png": "/static/media/R.9e9211b57dd108be7137.png",
+    "static/media/anaconda.png": "/static/media/anaconda.11cdf117d435c027652b.png",
+    "static/media/SQL.png": "/static/media/SQL.ca43e7ff4eed6220566a.png",
+    "static/media/cad.png": "/static/media/cad.fe3882a077f41ee06fd6.png",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/Cplus.png": "/static/media/Cplus.24a8f93854ab092f17a7.png",
+    "static/media/C.png": "/static/media/C.d083731589e745941c43.png",
     "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/docker.png": "/static/media/docker.c1f953a3ead577c05d04.png",
+    "static/media/git.png": "/static/media/git.63b94516b0c8926a967f.png",
     "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/Pytorch.png": "/static/media/Pytorch.f3f9314a2b40e4c469cc.png",
+    "static/media/JS.png": "/static/media/JS.3dfb665e058d08c99f28.png",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.23c5e624.css.map": "/static/css/main.23c5e624.css.map",
-    "main.1986b245.js.map": "/static/js/main.1986b245.js.map",
+    "main.51fb328a.css.map": "/static/css/main.51fb328a.css.map",
+    "main.0187424d.js.map": "/static/js/main.0187424d.js.map",
     "787.74e9171c.chunk.js.map": "/static/js/787.74e9171c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23c5e624.css",
-    "static/js/main.1986b245.js"
+    "static/css/main.51fb328a.css",
+    "static/js/main.0187424d.js"
   ]
 }
