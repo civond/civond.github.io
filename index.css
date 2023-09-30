@@ -1,0 +1,65 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: 300 11px/1.4 'Helvetica Neue', sans-serif;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #95a2db;
+  overflow: hidden;
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width:7px;
+}
+::-webkit-scrollbar-track {
+  @background-color: #A4A5FF;
+}
+::-webkit-scrollbar-thumb {
+  opacity:65%;
+  transition: 1s;
+  @-webkit-transition: all 0.2s ease-out;
+  @background-image: linear-gradient(#444,#95a2db);
+  background-color: #444;
+  border-radius: 30px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(66, 57, 83);
+  opacity:100%;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+  }

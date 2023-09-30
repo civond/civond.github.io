@@ -1,0 +1,121 @@
+.project-page {
+  height:100%;
+
+  .text-zone {
+    &:before {
+      content: '<body>';
+      position: fixed;
+      margin-top: -50px;
+      margin-left: -35px;
+      color: #5a3f75;
+      opacity: 0.6;
+      position: absolute;
+      font-size: 18px;
+      font-family: 'La Belle Aurore', cursive;
+      animation: fadeIn 0.8s;
+      animation-delay: 0.5s;
+      animation-fill-mode: forwards;
+      opacity: 0;
+    }
+    
+    &:after {
+      content: '</body>';
+      position: relative;
+      margin-top: 850px;
+      margin-left: -35px;
+      color: #5a3f75;
+      opacity: 0.6;
+      position: absolute;
+      font-size: 18px;
+      font-family: 'La Belle Aurore', cursive;
+      animation: fadeIn 0.8s;
+      animation-delay: 0.5s;
+      animation-fill-mode: forwards;
+      opacity: 0;
+      padding-bottom: 30px
+    }
+  }
+
+  .header-animation {
+    animation: fadeIn 1s;
+  }
+
+  .project-container {
+    animation: fadeIn 1s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+    opacity:0;
+    display: inline-block;
+    background-color: black;
+  }
+
+  h1 {
+    color: #7c52a5;
+    font-size:75px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    
+    font-family: 'Coolvetica';
+    font-weight: 400;
+    position:relative;
+
+    &:after {
+      content: '</h1>';
+      position: absolute;
+      margin-left: -258px;
+      margin-top: 90px;
+    }
+  }
+
+  h2 {
+    color: #272545;
+    margin-top: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    animation: fadeIn 1s 1.0s backwards;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 450px) {
+  .project-page {
+    .text-zone {
+      margin-left: 0px;
+      width:400px;
+      &:before {
+        content: '<body>';
+        position: absolute;
+        margin-top: -50px;
+        margin-left: -5px;
+      }
+      
+      &:after {
+        content: '</body>';
+        position: absolute;
+        margin-top: 950px;
+        margin-left: -20px;
+        padding-bottom: 80px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .project-page {
+    .text-zone {
+      margin-left: 0px;
+      width:400px;
+      
+      &:before {
+        margin-left: -5px;
+      }
+      &:after {
+        content: '</body>';
+        position: absolute;
+        margin-top: 670px;
+        margin-left: -5px;
+        padding-bottom: 80px;
+      }
+    }
+  }
+}
