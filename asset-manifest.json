@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.18fe99d5.css",
-    "main.js": "/static/js/main.d86892e7.js",
+    "main.css": "/static/css/main.5e3ea184.css",
+    "main.js": "/static/js/main.f404a415.js",
     "static/js/787.74e9171c.chunk.js": "/static/js/787.74e9171c.chunk.js",
     "static/media/otter.png": "/static/media/otter.0fa3a6c26d695925dc84.png",
     "static/media/personalpic.png": "/static/media/personalpic.a37d2bdf38770395eb3d.png",
     "static/media/arduino.png": "/static/media/arduino.a19d8b71dd6ac5c2bd2e.png",
-    "static/media/Map.png": "/static/media/Map.a680cba57a3290a41066.png",
+    "static/media/plant.png": "/static/media/plant.2a3e405e0684350f2727.png",
     "static/media/postgres.png": "/static/media/postgres.5a13e254fb0c5ae14652.png",
     "static/media/trajectory.png": "/static/media/trajectory.e2f34ddc88d1773cc6c3.png",
-    "static/media/Detect.jpg": "/static/media/Detect.ae3b59602579c5cd279d.jpg",
     "static/media/numpy.png": "/static/media/numpy.7deccf79a3075b4304d8.png",
     "static/media/ECG.png": "/static/media/ECG.2cbec17f1cc3c347500a.png",
+    "static/media/Xray.jpg": "/static/media/Xray.064c77e580e5a3bc09aa.jpg",
     "static/media/CV.png": "/static/media/CV.1bc26191489b0ec78cb0.png",
-    "static/media/2152_100Performance.png": "/static/media/2152_100Performance.20898f7703c28166a4fb.png",
-    "static/media/FreqResp.jpg": "/static/media/FreqResp.b8f3b8100c217cde5022.jpg",
+    "static/media/TF.png": "/static/media/TF.122cea66a891a84c0931.png",
+    "static/media/audio.jpeg": "/static/media/audio.b3a164b451c770677f0a.jpeg",
     "static/media/matlab.png": "/static/media/matlab.82317ab0097e0edaf2e6.png",
     "static/media/DLC.png": "/static/media/DLC.7e9b613f274edf14967b.png",
     "static/media/R.png": "/static/media/R.9e9211b57dd108be7137.png",
@@ -26,7 +26,7 @@
     "static/media/css.png": "/static/media/css.58dfbebae4a02001b50e.png",
     "static/media/C.png": "/static/media/C.d083731589e745941c43.png",
     "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/dlc.png": "/static/media/dlc.19da39fc28d279d77623.png",
+    "static/media/scipy.png": "/static/media/scipy.12f3156ac4b978f5feab.png",
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/matplot.png": "/static/media/matplot.84a8cb7707d69f28ae3d.png",
     "static/media/docker.png": "/static/media/docker.c1f953a3ead577c05d04.png",
@@ -37,12 +37,12 @@
     "static/media/JS.png": "/static/media/JS.3dfb665e058d08c99f28.png",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.18fe99d5.css.map": "/static/css/main.18fe99d5.css.map",
-    "main.d86892e7.js.map": "/static/js/main.d86892e7.js.map",
+    "main.5e3ea184.css.map": "/static/css/main.5e3ea184.css.map",
+    "main.f404a415.js.map": "/static/js/main.f404a415.js.map",
     "787.74e9171c.chunk.js.map": "/static/js/787.74e9171c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18fe99d5.css",
-    "static/js/main.d86892e7.js"
+    "static/css/main.5e3ea184.css",
+    "static/js/main.f404a415.js"
   ]
 }
