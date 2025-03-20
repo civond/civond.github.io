@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5e3ea184.css",
-    "main.js": "/static/js/main.f404a415.js",
+    "main.js": "/static/js/main.bea485d7.js",
     "static/js/787.74e9171c.chunk.js": "/static/js/787.74e9171c.chunk.js",
     "static/media/otter.png": "/static/media/otter.0fa3a6c26d695925dc84.png",
     "static/media/personalpic.png": "/static/media/personalpic.a37d2bdf38770395eb3d.png",
@@ -9,6 +9,7 @@
     "static/media/plant.png": "/static/media/plant.2a3e405e0684350f2727.png",
     "static/media/postgres.png": "/static/media/postgres.5a13e254fb0c5ae14652.png",
     "static/media/trajectory.png": "/static/media/trajectory.e2f34ddc88d1773cc6c3.png",
+    "static/media/ECG_Wavelet.png": "/static/media/ECG_Wavelet.25eef86ca5c79085d402.png",
     "static/media/numpy.png": "/static/media/numpy.7deccf79a3075b4304d8.png",
     "static/media/ECG.png": "/static/media/ECG.2cbec17f1cc3c347500a.png",
     "static/media/Xray.jpg": "/static/media/Xray.064c77e580e5a3bc09aa.jpg",
@@ -16,7 +17,6 @@
     "static/media/TF.png": "/static/media/TF.122cea66a891a84c0931.png",
     "static/media/audio.jpeg": "/static/media/audio.b3a164b451c770677f0a.jpeg",
     "static/media/matlab.png": "/static/media/matlab.82317ab0097e0edaf2e6.png",
-    "static/media/DLC.png": "/static/media/DLC.7e9b613f274edf14967b.png",
     "static/media/R.png": "/static/media/R.9e9211b57dd108be7137.png",
     "static/media/anaconda.png": "/static/media/anaconda.11cdf117d435c027652b.png",
     "static/media/cad.png": "/static/media/cad.fe3882a077f41ee06fd6.png",
@@ -38,11 +38,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.5e3ea184.css.map": "/static/css/main.5e3ea184.css.map",
-    "main.f404a415.js.map": "/static/js/main.f404a415.js.map",
+    "main.bea485d7.js.map": "/static/js/main.bea485d7.js.map",
     "787.74e9171c.chunk.js.map": "/static/js/787.74e9171c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e3ea184.css",
-    "static/js/main.f404a415.js"
+    "static/js/main.bea485d7.js"
   ]
 }
